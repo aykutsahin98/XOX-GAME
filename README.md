@@ -12,6 +12,7 @@ Hi, it is xox game, as the game is known. After you enter the username in the ga
 
 **Devolopment Tools:**
 ```
+ •JAVA SDK
  •Netbeans IDE
 ```
 
