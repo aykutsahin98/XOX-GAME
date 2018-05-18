@@ -4,3 +4,14 @@ Hi, it is xox game, as the game is known. After you enter the username in the ga
  
  ## Game Screenshot:
 <img src="https://user-images.githubusercontent.com/36954450/40231798-1b2b7c62-5aa5-11e8-8096-877e20e7ca41.PNG" width="450" height="400">
+
+**Programming Language:**
+```
+ •JAVA
+```
+
+**Devolopment Tools:**
+```
+ •Netbeans IDE
+```
+
